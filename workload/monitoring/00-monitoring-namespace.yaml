@@ -1,4 +1,4 @@
-# NS monitoring
+# Namespace monitoring
 apiVersion: v1
 kind: Namespace
 metadata:
