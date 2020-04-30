@@ -1,7 +1,0 @@
-# Namespace monitoring
-apiVersion: v1
-kind: Namespace
-metadata:
-  name: novo-test
-  labels:
-    name: novo-test
